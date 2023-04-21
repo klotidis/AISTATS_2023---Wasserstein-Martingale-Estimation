@@ -22,7 +22,7 @@ SOFTWARE.
 
 %-----------------------------------%
 
-The files “FrankWolfe.m”, “linear_oracle.m”, “my_bisection.m” and “dual_solution.m”, are under the following license:
+The files “FrankWolfe.m”, “linear_oracle.m”, “my_bisection.m” and “dual_solution.m” are under the following license:
 
 MIT License
 
