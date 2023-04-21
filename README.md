@@ -1,4 +1,4 @@
-# AISTATS_2023-WassersteinDistributionallyRobustLinearQuadraticEstimationMartingale
+# AISTATS_2023---Wasserstein-Martingale-Estimation
 
 - For reproducing our results, run the file “script.m”.
 
